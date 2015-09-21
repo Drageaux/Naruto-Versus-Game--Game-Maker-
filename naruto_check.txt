@@ -1,0 +1,14 @@
+obj_naruto.image_speed
+obj_naruto.image_number
+obj_naruto.image_index
+obj_naruto.alarm[0]
+obj_naruto.alarm[1]
+obj_naruto.combo
+obj_naruto.sprite_index
+obj_naruto.alarm[2]
+obj_naruto.nextcombo
+obj_naruto.alarm[3]
+obj_naruto.vspeed
+obj_naruto.hspeed
+obj_naruto.gravity
+obj_naruto.damage
